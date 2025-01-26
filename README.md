@@ -6,7 +6,7 @@ This repository is dedicated to solve and analyses the examples and exercises of
 
 This repository has used Emacs Lisp to workout the examples of the book
 
-A good guide using `emacs` working with `.el` files is found here: 
+An excellent guide to evaluate `.el` files using Emacs can be found here: 
 [evaluating-elisp-emacs](https://www.masteringemacs.org/article/evaluating-elisp-emacs)
 
 ## Chapter 1: Building Abstractions with Procedures
