@@ -6,7 +6,8 @@ This repository is dedicated to solve and analyses the examples and exercises of
 
 My personal recommendation is to sue emacs to work with the examples of this repository.
 
-A good guide using `emacs` working with `.el` files is found here [evaluating-elisp-emacs]  (https://www.masteringemacs.org/article/evaluating-elisp-emacs)
+A good guide using `emacs` working with `.el` files is found here: 
+[evaluating-elisp-emacs](https://www.masteringemacs.org/article/evaluating-elisp-emacs)
 
 ## Chapter 1: Building Abstractions with Procedures
 
