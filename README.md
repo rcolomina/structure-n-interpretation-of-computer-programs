@@ -4,7 +4,7 @@ This repository is dedicated to solve and analyses the examples and exercises of
 
 ## How to Run The Schema Examples
 
-My personal recommendation is to sue emacs to work with the examples of this repository.
+This repository has used Emacs lisp to workedout the examples of the book
 
 A good guide using `emacs` working with `.el` files is found here: 
 [evaluating-elisp-emacs](https://www.masteringemacs.org/article/evaluating-elisp-emacs)
